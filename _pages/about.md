@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CS undergrad @ <a href='https://www.zju.edu.cn/english/'>Zhejiang University</a> 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: selfie.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -23,8 +21,15 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! This is Zhenjie Wan, a CS undergrad at Zhejiang University. I'm currently instructed by <a href='https://sites.google.com/view/wenguanwang'>`Prof. Wenguang Wang`</a>. My research is centered around LLM/VLM as planners for embodied agents in 3D environments. I'm now interested in exploring how multi-modal LLM agents can collaborate with humans as equal partners in real-world tasks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My dream is to develop a machine that can perceive, reason, and plan in real-world scenes like humans, and
+I have set this as the goal of my research. Toward this goal, I now pursue an open-ended embodied agent
+that can actively interact with humans and environments with large multi-modal models, particularly Large
+Language Models (LLMs) and Vision Language Models (VLMs), as its planner to do the reasoning. In my
+work, I study the 3D game Minecraft as the environment for agents, as it is an open-world setting filled with
+long-horizon challenges, environmental disruptions, and uncertainties, closely resembling the human world
+in many aspects.
+
+**Specialties**: Pytorch/CUDA, Collaboration, Basketball
