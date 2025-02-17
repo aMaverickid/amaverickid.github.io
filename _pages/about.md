@@ -28,7 +28,7 @@ My dream is to develop a machine that can perceive, reason, and plan in real-wor
 I have set this as the goal of my research. Toward this goal, I now pursue an open-ended embodied agent
 that can actively interact with humans and environments with large multi-modal models, particularly Large
 Language Models (LLMs) and Vision Language Models (VLMs), as its planner to do the reasoning. In my
-work, I study the 3D game Minecraft as the environment for agents, as it is an open-world setting filled with
+work, I study **the 3D game Minecraft** as the environment for agents, as it is an open-world setting filled with
 long-horizon challenges, environmental disruptions, and uncertainties, closely resembling the human world
 in many aspects.
 
